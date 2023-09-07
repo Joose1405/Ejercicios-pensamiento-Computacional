@@ -1,11 +1,11 @@
-# Ejemplo 1
-edad = int(input("Escriba su edad: "))
+#Ejemplo 1
+'''edad = int(input("Escriba su edad: "))
 if (edad >= 21):
     print("El usuario es mayor de 21 años")
 else:
-    print("El usuario es menor de 21 años")
+    print("El usuario es menor de 21 años")'''
 
-# Ejemplo 2
+'''#Ejemplo 2
 a = int(input())
 b = int(input())
 c = int(input())
@@ -15,14 +15,14 @@ if (a >= b and a >= c):
 elif (b >= a and b >= c):
     print(b)
 else:
-    print(c)
+    print(c)'''
 
-# Ejemplo 3
+'''#Ejemplo 3
 a = int(input())
 if (a >= 999999999 and a <=10000000000):
     print("Este es un número de telefono")
 else:
-    print("Este no es un número de telefono")
+    print("Este no es un número de telefono")'''
 
 #Ejemplo 4
 
